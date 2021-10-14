@@ -1,0 +1,46 @@
+#maindiv{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    
+    width: 400px;
+    height: 300px;
+    
+}
+#registration{
+ font-size: 20px;
+ text-align: center;
+}
+.input{
+    position: relative;
+    left:34%;
+}
+.input1{
+    position: relative;
+    left:27%;
+}
+.input2{
+    position: relative;
+    left:34%;
+}
+#submit{
+    width: 90px;
+    height: 30px;
+    position: relative;
+    top: 10px;
+    left: 20%;
+    border: none;
+}
+#clear{
+    width: 90px;
+    height: 30px;
+    position: relative;
+    top: 10px;
+    left: 25%;
+    border: none;
+}
+#label{
+    position: relative;
+    left: 20%;
+    font-size: large;
+}

@@ -1,0 +1,18 @@
+#table{
+    border: 2px solid black;
+    size: 600px;
+}
+#tablediv{
+    width: 400px;
+    height: 800px;
+    position:absolute;
+    top: 40%;
+    left: 32%;
+}
+#h1{
+    text-align: center;
+    font-size: 20px;
+    position:absolute;
+    top: 30%;
+    left: 42%;
+}
